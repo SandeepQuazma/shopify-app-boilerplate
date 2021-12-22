@@ -2,7 +2,7 @@ import React from 'react';
 import { Heading, Page, TextStyle, Layout, EmptyState, TopBar} from "@shopify/polaris";
 import { ResourcePicker, TitleBar } from '@shopify/app-bridge-react';
 import Framelayout from '../components/Framelayout'
-import { PrismaClient } from '@prisma/client'
+
 
 
 const img = 'https://cdn.shopify.com/s/files/1/0757/9955/files/empty-state.svg';
